@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f5f5f5;
+    color: #222;
+    line-height: 1.6;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #444;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.trivia-section ol {
+    padding-left: 25px;
+}
+
+.trivia-section li {
+    margin-bottom: 8px;
+}
